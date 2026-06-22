@@ -222,6 +222,13 @@ streamlit run app/streamlit_app.py
 
 ---
 
+## Business Benefits
+- Identify customers at risk
+- Improve customer retention
+- Reduce revenue loss
+- Support targeted marketing campaigns
+- Enhance customer satisfaction
+
 ## 👨‍💻 Author
 
 Jay Kumbhani
